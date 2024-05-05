@@ -20,10 +20,10 @@ import joblib
 #   orientation= "horizontal"
 #)
 
-model = joblib.load("model2")
+model = joblib.load("model.pkl")
 
 
-pipeline = joblib.load("pipeline2")
+pipeline = joblib.load("pipeline.pkl")
 
 
 
