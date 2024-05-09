@@ -1,7 +1,7 @@
 ﻿# Credit_Card_Fraud
 [THE LINK](https://creditcardfraud-gl25vlcpwk2qgshh6bndwd.streamlit.app/)
 
-*shared the work with my friend kareem his linkedIn link [link](https://www.linkedin.com/in/karim-ashraf-%F0%9F%87%B5%F0%9F%87%B8-80a867229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and his github username karim3421* 
+*shared the work with my friend kareem his linkedIn link [link](https://www.linkedin.com/in/karim-ashraf-%F0%9F%87%B5%F0%9F%87%B8-80a867229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and his github username karim3421*  
 
 
 **Digital payments are evolving, but so are cyber criminals. According to the Data Breach Index, more than 5 million records are being stolen on a daily basis, a concerning statistic that shows - fraud is still very common both for Card-Present and Card-not Present type of payments. In today’s digital world where trillions of Card transaction happens per day, detection of fraud is challenging.**
